@@ -1,2 +1,2 @@
 # dsa-practice
-My solutions to DSA problems with approach and time complexity.
+My solutions to DSA problems on various coding platforms like LEETCODE AND CODEFORCES.
